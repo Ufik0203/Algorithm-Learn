@@ -1,10 +1,5 @@
 
-## Tugas Besar Ujian Tengah Semester (UTS)
-
-### Deskripsi Singkat
-Tugas Besar ini merupakan bagian dari Ujian Tengah Semester (UTS) untuk mata kuliah [nama mata kuliah]. Tugas ini bertujuan untuk memperdalam pemahaman dan penerapan algoritma greedy, brute force, serta penerapan algoritma pada permasalahan probabilitas Exchange Coin, Job Scheduling Problem, dan Knapsack Problem.
-
-### Isi Tubes
+### Isi
 1. **Exchange Coin Problem**
     - **Deskripsi:** Pada permasalahan ini, diberikan sejumlah koin dan jumlah uang yang ingin ditukar. Tujuan utama adalah menentukan jumlah koin minimum yang diperlukan untuk menukar jumlah uang tersebut.
     - **Implementasi Algoritma:**
