@@ -18,12 +18,6 @@
         - **lgorithma Greedy by weight:** Memilih item berdasarkan bobotnya. Cara kerja algorithma ini yaitu item dengan bobot terendah dipilih terlebih dahulu, selama total bobot item yang dipilih tidak melebihi kapasitas knapsack, lalu diurutkan berdasarkan bobotnya.
         - **lgorithma Greedy by density:** Memilih item berdasarkan densitasnya, yang dihitung sebagai rasio nilai terhadap bobot (profit per unit weight). Cara kerja algorithma ini yaitu item dengan densitas tertinggi dipilih terlebih dahulu, selama total bobot item yang dipilih tidak melebihi kapasitas knapsack, lalu diurutkan berdasarkan densitasnya.
 
-### Author
-- [**Raihan Firdaus - 1203222055**](https://github.com/RH203)
-- [**Irfan Yasin - 1203220158**]()
-- [**Mario Achmad Taufik - 1203220125**](https://github.com/Ufik0203)
-
-
 ### How to Use
 1. Clone repository ini ke dalam lokal Anda.
 2. Buka folder hasil clone, lalu buka terminal pada folder tersebut.
